@@ -2558,7 +2558,7 @@ Um fortzufahren, tippen Sie auf die Entsperrtaste"</string>
     <string name="HIPS_App_Sort_Title">sortieren nach</string>
     <string name="HIPS_Conflict_Title">" your cell phone establishment and active defense conflict</string>
     <string name="HIPS_Fallback_Conflict_Message">examines in the system to have &lt;font color=\"#17A4F5\">%1$s&lt;/font> can have the conflict with the LBE security master active defense, please close this application rights management function</string>
-    <string name="HIPS_Sys_Mode">system is authorized to start</string>
+    <string name="HIPS_Sys_Mode">System ist autorisiert zum Start</string>
     <string name="Home_Agree_And_Use">LBE Security Master starten</string>
     <string name="Home_Epayguard">Schutz für Bezahldienste</string>
     <string name="Home_EULA">Endbenutzer-Lizenzvertrag</string>
@@ -2568,8 +2568,8 @@ Um fortzufahren, tippen Sie auf die Entsperrtaste"</string>
     <string name="miui_iuni_hips_label">Rechte Management</string>
     <string name="miui_lbe_su_hips_label">LBE administration bureau</string>
     <string name="miui_meitu_hips_label">Rechte Managemnt</string>
-    <string name="miui_v4_hips_label">administration bureau</string>
-    <string name="miui_v5_hips_label">administration bureau</string>
+    <string name="miui_v4_hips_label">Verwaltungsbüro</string>
+    <string name="miui_v5_hips_label">Verwaltungsbüro</string>
     <string name="miui_v5_sc_hips_label">Sicherheitscenter</string>
     <string name="Plugin_ATP_No_net">keine Netzwerkverbindung</string>
     <string name="Plugin_ATP_Uninstall_Failed">LBE Sicherheitsdienst deaktivieren fehlgeschlagen</string>
@@ -2587,7 +2587,7 @@ Um fortzufahren, tippen Sie auf die Entsperrtaste"</string>
     <string name="Scan_Already_Scan_Ad">Apps wurden auf Werbung untersucht</string>
     <string name="Scan_Already_Scan_Virus">Apps wurden auf Viren untersucht</string>
     <string name="Scan_Already_Trust_LBE_Security_Master">LBE wird vertraut</string>
-    <string name="Scan_Already_Watch_MIUI_FloatWindow_Setting_Guide">examined that the MIUI aerosol window establishes guide</string>
+    <string name="Scan_Already_Watch_MIUI_FloatWindow_Setting_Guide">untersucht, dass die MiUi im Aerosol-Fenster als Tutorialmodus geöffnet wird</string>
     <string name="Scan_Autoboot_Software">\u0020mit Gerät starten</string>
     <string name="Scan_AutoStart">\u0020automatisch starten</string>
     <string name="Scan_Check_Update">auf Update prüfen</string>
@@ -2628,7 +2628,7 @@ Um fortzufahren, tippen Sie auf die Entsperrtaste"</string>
     <string name="Scan_Scanning_Ad">überprüfe Apps auf Werbung </string>
     <string name="Scan_Scanning_Virus_Now">scanne nach Viren</string>
     <string name="Scan_Set_Trust_LBE_Security_Master">prüfe ob LBE vertraut wird</string>
-    <string name="Scan_Setting_FloatWindow">is establishing aerosol window</string>
+    <string name="Scan_Setting_FloatWindow">baut Aerosol Fenster</string>
     <string name="Scan_Setting_Trust_LBE_Security_Master">LBE wird vertraut</string>
     <string name="Scan_Stopping_Background_Running_Task">Hintergrundtastk beenden</string>
     <string name="Scan_Traffic_Dataplan_Desc">Datenvolumenlimit: %1$s im Monat</string>
@@ -2639,7 +2639,7 @@ Um fortzufahren, tippen Sie auf die Entsperrtaste"</string>
     <string name="Scan_Traffic_Monitor_Enable">Messung der Datennutzung aktiv</string>
     <string name="Scan_Traffic_Monitor_Starting">starte Überwachung der Datennutzung</string>
     <string name="Scan_Updating_Cloud_Permission_Data">Cloud Daten werden erneuert</string>
-    <string name="Scan_Watch_Guide">examination course</string>
+    <string name="Scan_Watch_Guide">Prüfungsplan</string>
     <string name="Scan_Watch_MIUI_Phone_Service_Start_Guide">examines MIUI opening harassment interception service course</string>
     <string name="Scan_Watched_MIUI_Phone_Service_Start_Guide">examined MIUI opening harassment interception service course</string>
     <string name="Scan_Watching_MIUI_Phone_Service_Start_Guide">is examining MIUI harassment interception establishment course</string>
@@ -2649,7 +2649,7 @@ Um fortzufahren, tippen Sie auf die Entsperrtaste"</string>
     <string name="SDClean_Clean_Clean_May_Wait">reinigt sich, noch ein bisschen warten</string>
     <string name="SDClean_Clean_DeepClean_Summary">discovers in addition &lt;font color=\"#ffcb2d\">%1$s&lt;/font> depth scanning document, suggested that retains or cleans up discretely</string> 
     <string name="SDClean_Clean_Install_Apk_Informations">%1$s(%2$s)</string>
-    <string name="SDClean_Clean_Install_Apk_Summary">Alte APK datei gefunen, %1$s können eingespart werdnespace, löschen?</string>
+    <string name="SDClean_Clean_Install_Apk_Summary">Alte APK datei gefunen, %1$s können eingespart werden! Löschen?</string>
     <string name="SDClean_Clean_Install_Apk_Tips">folgende App installiert:</string>
     <string name="SDClean_Clean_No_Advert_Found">keine überflüssigen Dateien von Werbeeinblendungen vorhanden</string>
     <string name="SDClean_Clean_No_Cache_Found">keine überflüssigen Cache Dateien vorhanden</string>
