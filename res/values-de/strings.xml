@@ -15,7 +15,7 @@
     <string name="HIPS_Group_ROOT">ROOT\u0020</string>
     <string name="HIPS_Perm_SendSMS">SMS senden</string>
     <string name="HIPS_Perm_SendSMS_Desc">versendet SMS</string>
-    <string name="HIPS_Perm_SendSMS_Hint">%1$s App(s) mit Zugriff aufs versenden von SMS/MMS</string>
+    <string name="HIPS_Perm_SendSMS_Hint">%1$s App(s) mit Zugriff aufs Versenden von SMS/MMS</string>
     <string name="HIPS_Perm_Call">Anruf</string>
     <string name="HIPS_Perm_Call_Desc">kann Telefonate starten, annehmen und beenden</string>
     <string name="HIPS_Perm_Call_Hint">%1$s App(s) mit Zugriff auf Telefonie</string>
@@ -128,7 +128,7 @@
     <string name="recommend_lbe_master">Empfehle LBE Security Master</string>
     <string name="already_block">Bereits geblockt</string>
     <string name="Download_NoSd_Hint">Keine SD Karte, Karte einlegen um Download zu beenden</string>
-    <string name="miui_step_5">5. Gratulation! Complete the setup, you can normally use text messaging blocked.</string>
+    <string name="miui_step_5">5. Gratulation! Vervollständigen Sie das Setup. Normalerweiße können Sie SMS-Nachrichten blockieren.</string>
     <string name="miui_step_4">4. Tippe schliessen \"System message priority\", erlaube Drittanbieter Apps die SMS Benachrichtigung abzufangen</string>
     <string name="miui_step_3">3. slide list in the end portion, tippe \"Advanced settings\".</string>
     <string name="miui_step_2">2. clicked the phone menu button, the pop-up menu, click on the \"settings\".</string>
@@ -143,7 +143,7 @@
     <string name="uninstall">deinstallieren</string>
     <string name="miui_sms_block_desc">MIUI System Standart Priorität für SMS Empfang, wenn die möchten das LBE Security Master Spam SMS blockiert, müssen Sie folgendes konfigurieren:</string>
     <string name="block_error_desc">Empfangsfehlerbeschreibung</string>
-    <string name="call_phone_error">card or the network is not an exception, can not make calls!</string>
+    <string name="call_phone_error">SIM Karte oder Netzwerk ist nicht eine Ausnahme, Keine Anrufe können getätigt werden!</string>
     <string name="block_error_tips_message">when intercepting Options \"Shutdown\", \"empty number\", \"Shutdown\"mode, if you encounter MMI code error, please call forwarding feature, you can directly dial direct telephone operator services launched (free of charge).</string>
     <string name="soft_manager_mem">intern</string>
     <string name="soft_manager_sdcard">SD Karte</string>
@@ -212,9 +212,9 @@
     <string name="AD_Adware_App">Apps mit Werbung</string>
     <string name="AD_Adware_Literal_Version">Ad Datenbank Version: %1$s</string>
     <string name="AD_Adware_Uninstall_Prompt">%1$s deinstallieren?</string>
-    <string name="AD_Adware_Onekey_Block">alle riskanten Ads blockieren</string>
+    <string name="AD_Adware_Onekey_Block">alle riskanten Werbungen blockieren</string>
     <string name="AD_Last_Scan_Time">zuletzt überprüft</string>
-    <string name="AD_Scan">scanne</string>
+    <string name="AD_Scan">Scanne</string>
     <string name="AD_Report">nicht blockierte Werbung melden</string>
     <string name="AD_Report_Hint">Trotz Blockierung gezeigte Werbung melden.</string>
     <string name="AD_Report_Success_Hint">Du hast erfolgreich Werbe Apps gemeldet, Vielen Dank</string>
@@ -339,7 +339,7 @@
     <string name="Battery_Condition_AppForeground">App im Vordergrund</string>
     <string name="Battery_Condition_AppBackground">App im Hinergrund</string>
     <string name="Battery_Condition_Can_Use">Sie können auch</string>
-    <string name="Battery_Action_KillSelf_ByLauncher">Diese Anwendung beendet reinigen ihr Hintergrund</string>
+    <string name="Battery_Action_KillSelf_ByLauncher">Diese Anwendung beendet, Hintergrund gereinigt</string>
     <string name="Battery_Action_KillApp">Taskkiller</string>
     <string name="Battery_Action_LimitCPU">CPU Taktfrequenz beschränken</string>
     <string name="Battery_Action_PlayNotif">Ton abspielen</string>
@@ -570,7 +570,7 @@
     <string name="Battery_Log_Change">Ändern</string>
     <string name="Battery_Service">Stromparfunktionen aktivieren</string>
     <string name="Battery_Show_Notif">LBE Akku Symbol einblenden</string>
-    <string name="Battery_Show_NotifDes">Zeigt eigenes Akku Symbol in der Benachrichtigugsleiste</string>
+    <string name="Battery_Show_NotifDes">Zeigt eigenes Akku Symbol in der Benachrichtigungsleiste an.</string>
     <string name="Battery_CheckBright">Minimale Displayhelligkeit feststellen.</string>
     <string name="Battery_CheckBrightDes">Versucht die geringste Helligkeit festzustellen.</string>
     <string name="Battery_Service_Autostart">Energiespardienst aktiv</string>
@@ -803,7 +803,7 @@ um ihren Sicherheitsstatus zu erfahren"</string>
     <string name="Home_BackupHint_Comment">Notiz:</string>
     <string name="Home_BackupProgress">Backup %1$d von insgesamt %2$d Teilen</string>
     <string name="Home_Restore">rückgängig</string>
-    <string name="Home_Restore_OK">Restart security master</string>
+    <string name="Home_Restore_OK">Restart Security Master</string>
     <string name="Home_RestoreConfirm">Durch das wiederherstellen dieses Backups werden alle Ihre Einstellungen verloren gehen, weiter?</string>
     <string name="Home_RestoreOK">Wiederherstellung bestätigen</string>
     <string name="Home_RestoreFail">Wiederherstellen fehlgeschlagen, versuchen Sie es erneut</string>
@@ -848,7 +848,7 @@ um ihren Sicherheitsstatus zu erfahren"</string>
     <string name="Keyguard_lock_AQ_A">Antwort auf Sicherheitsfrage</string>
     <string name="Keyguard_lock_AQ_Q">Sicherheitsfrage</string>
     <string name="Keyguard_lock_AQ_CustomQ">Individuelle Sicherheitsfrage</string>
-    <string name="Keyguard_Error_PasswordEqual">Passwort muss mit der erten Eingabe übereinstimmen</string>
+    <string name="Keyguard_Error_PasswordEqual">Passwort muss mit der ersten Eingabe übereinstimmen</string>
     <string name="Keyguard_Error_Empty_Password">Kennwort darf nicht leer sein</string>
     <string name="Keyguard_Error_Empty_Question">Sicherheitsfragen darf nicht leer sein</string>
     <string name="Keyguard_Error_Empty_answer">Die Antwort darf nicht leer sein</string>
@@ -981,7 +981,7 @@ Mit dem Absenden einer Betreiber Abfrage per SMS, kalibriert die App automatisch
     <string name="Nft_Mgr_Clear_Blocked_Record">Löschen von Datensätzen</string>
     <string name="Nft_Mgr_Uninstall_App">deinstallieren</string>
     <string name="Nft_Mgr_Blocked_List_Title">aktuell geblockt ( %1$d )</string>
-    <string name="Nft_Mgr_App_List_Empty">keine App gefunden die Benachrichtigungen sendet</string>
+    <string name="Nft_Mgr_App_List_Empty">Keine App gefunden die Benachrichtigungen senden.</string>
     <string name="Nft_Mgr_App_Title">zugelassene Apps</string>
     <string name="Nft_Mgr_Reject">verweigern</string>
     <string name="Nft_Mgr_Accept">zulassen</string>
@@ -1001,7 +1001,7 @@ Mit dem Absenden einer Betreiber Abfrage per SMS, kalibriert die App automatisch
     <string name="Patch_Check_Incompatible">Sorry, Scannen LBE Gruppe vorübergehend nicht für Ihr Handy-Patches bereitzustellen, offene Echtzeit-Virus zu schützen Sie Ihr Telefon sicher</string>
     <string name="Patch_Check_Fixed">Schwachstellen wurden behoben</string>
     <string name="Patch_Check_Fixed_Dest">Sie haben erfolgreich LBE MasterKey Bugfixes installiert haben Sicherheitslücken behoben</string>
-    <string name="Patch_Check_Immune">Keine Sicherheitslücken gefunden</string>
+    <string name="Patch_Check_Immune">Keine Sicherheitslücken gefunden.</string>
     <string name="Patch_Download_Success">Patch-System fertig ist, installieren</string>
     <string name="Patch_Download_Failure">Konnte das System bekommen, um Ihr Handy passen Patch, bitte versuchen Sie es später noch einmal</string>
     <string name="Patch_Download_Cancelled">Gelöscht</string>
@@ -1499,14 +1499,14 @@ Allerdings wird die System-Level-Anrufblockierungs Funktion nur von einigen Mode
     <string name="HIPS_Guide_HIPSEnable">Klicken Sie auf die Schaltfläche um den Dienst zu aktivieren</string>
     <string name="HIPS_ADB_MGR">Installation der Apps wird geblockt (schwarze Liste)</string>
     <string name="HIPS_ADB_DESC">Installationen erlauben, bestätigen lassen oder verweigern</string>
-    <string name="HIPS_ADB_Install_Title">Install the software via USB</string>
+    <string name="HIPS_ADB_Install_Title">Installiere diese Software über USB</string>
     <string name="HIPS_ADB_Install_Content">&lt;font color=#17A4F5>%1$s&lt;/font> versucht &lt;font color=#17A4F5>%2$s&lt;/font> zu installieren.</string>
     <string name="HIPS_Detected_PC_Install_APK_To_Phone">App(s) wurden installiert</string>
     <string name="HIPS_USB_Install_Remind">Installation von App(s) festgestellt</string>
     <string name="HIPS_USB_Install_Detail_Both">%1$d App(s) installiert, %2$d App(s) blockiert</string>
     <string name="HIPS_USB_Install_Detail_Install">%1$d App(s) installiert</string>
     <string name="HIPS_USB_Install_Detail_Rejected">%1$d App(s) an Installation gehindert</string>
-    <string name="HIPS_Manual_Start_Hips_Hint">Please manually open the active defense</string>
+    <string name="HIPS_Manual_Start_Hips_Hint">Bitte öffne den Active Defense manuell.</string>
     <string name="private_phones">Private Kommunikation</string>
     <string name="private_phones_backup">Private Kontakte und Nachrichten</string>
     <string name="private_phones_AddNewAccount">Privacy Space Konto erstellen</string>
@@ -1672,7 +1672,7 @@ Allerdings wird die System-Level-Anrufblockierungs Funktion nur von einigen Mode
     <string name="Scan_Check_RunningApp_Name">%1$d aktive App(s), %2$s frei</string>
     <string name="Scan_Check_RunningApp_Fixed">%1$d App(s) beendet, %2$s freigegeben</string>
     <string name="Scan_Check_Cache_App">App Cache: %1$s</string>
-    <string name="Scan_Check_Virus_Scan_name">scanne nach Viren</string>
+    <string name="Scan_Check_Virus_Scan_name">Scanne nach Viren</string>
     <string name="Scan_Check_Virus_Scan_Start">Virus Scan gestartet</string>
     <string name="Scan_Check_Virus_Scan_End">Virus Scan abgeschlossen</string>
     <string name="Scan_Check_Virus_Scan_Failed">Virus Scan fehlgeschlagen</string>
@@ -1863,16 +1863,16 @@ Zuletzt geändert:
     <string name="SoftMgr_Already_Uninstall">deinstalliert</string>
     <string name="SoftMgr_Uninstall_Selected_Software">ausgewählte App deinstallieren</string>
     <string name="SoftMgr_Confirm_Uninstall_Software">deinstalliere %1$s?</string>
-    <string name="SoftMgr_Add_USB_Blacklist">At the same time the software is installed automatically added to blacklist</string>
-    <string name="SoftMgr_USB_Blacklist_Desc">Description: Add to blacklist after the software will no longer be allowed to install this on the phone.</string>
-    <string name="SoftMgr_No_USB_Install_Log">No automatic installation log</string>
+    <string name="SoftMgr_Add_USB_Blacklist">Zur gleichen Zeit wird die automatisch installierte Software auf Schwarze Liste eingetragen.</string>
+    <string name="SoftMgr_USB_Blacklist_Desc">Beschreibung: Nachdem hinzufügen zur Schwarzen Liste, wird dem Handy verboten, die Software zu installieren.</string>
+    <string name="SoftMgr_No_USB_Install_Log">Kein automatisches Installationsprotokoll</string>
     <string name="SoftMgr_Clear_Log">Protokoll löschen</string>
     <string name="SoftMgr_Install_Manage_Log">neue oder aktualisierte App(s)</string>
     <string name="SoftMgr_USB_Install_Blacklist">einzelne Apps blockieren</string>
-    <string name="SoftMgr_USB_Install_Manage_Mode_Choice">Automatically install software management mode selection</string>
+    <string name="SoftMgr_USB_Install_Manage_Mode_Choice">Auswahl des Mangements zum automatischen Softwareinstallationsmodus </string>
     <string name="SoftMgr_Current_Mode">Installations Management:</string>
     <string name="SoftMgr_Add_Blacklist">hinzufügen</string>
-    <string name="SoftMgr_Add_Blacklist_Numberic">Blacklist (%1$d)</string>
+    <string name="SoftMgr_Add_Blacklist_Numberic">Schwarze Liste(%1$d)</string>
     <string name="SoftMgr_Remove_Blacklist">entfernen</string>
     <string name="SoftMgr_Remove_Blacklist_Numberic">entfernen von (%1$d) App(s)</string>
     <string name="SoftMgr_Add_Blacklist_Desc">Das Hinzufügen zur schwarzen Liste deinstalliert die App und wird eine Neuinstallation blockieren.</string>
@@ -1931,7 +1931,7 @@ Um fortzufahren, tippen Sie auf die Entsperrtaste"</string>
     <string name="SysOpt_RejectNotif">Benachrichtigungen in Statusleiste verweigern</string>
     <string name="SysOpt_AllowNotif">Benachrichtigungen in Statusleiste zulassen</string>
     <string name="SysOpt_Clean">Cache löschen</string>
-    <string name="SysOpt_Clean_Des">Check the SD card to clean junk files and system cache</string>
+    <string name="SysOpt_Clean_Des">Überprüfen Sie die SD-Karte zum Reinigen von Junk-Dateien und Systemcache.</string>
     <string name="SysOpt_Cache_Sys">App Cache</string>
     <string name="SysOpt_Cache_SD">Restdaten</string>
     <string name="SysOpt_Cache_File">Junk Dateien</string>
@@ -1982,13 +1982,13 @@ Um fortzufahren, tippen Sie auf die Entsperrtaste"</string>
     <string name="SysOpt_Running_Memory">Arbeitsspeicher (verwendet / gesamt): &lt;font color=#40C0FF>%1$s&lt;/font></string>
     <string name="SysOpt_DisplayDetails">&lt;u> Details   &lt;/u></string>
     <string name="SysOpt_Hardware_Brand">Marke</string>
-    <string name="SysOpt_Hardware_Internet_Tips">Networking for more information</string>
+    <string name="SysOpt_Hardware_Internet_Tips">Vernetzung für mehr Informationen</string>
     <string name="Update">Aktualisieren</string>
     <string name="Update_sr">Aktualisieren</string>
     <string name="Update_Main_Title">LBE Security Master aktualisieren</string>
     <string name="Update_VirusPattern_Title">Update der Virus-Datenbank</string>
     <string name="Update_VirusPattern_Desc">wurde auf %1$s aktualisiert</string>
-    <string name="Update_AdwarePattern_Title">advertising database update</string>
+    <string name="Update_AdwarePattern_Title">Werbung Datenbank-Update</string>
     <string name="Update_AdwarePattern_Desc">wurde auf %1$s aktualisiert</string>
     <string name="Update_Plugin_Title">%1$s Update</string>
     <string name="Update_AdwareSet_Title">Werbe Muster Update</string>
@@ -2645,11 +2645,11 @@ Um fortzufahren, tippen Sie auf die Entsperrtaste"</string>
     <string name="Scan_Watching_MIUI_Phone_Service_Start_Guide">is examining MIUI harassment interception establishment course</string>
     <string name="SDClean_Clean_Apk_Broken">beschädigt</string>
     <string name="SDClean_Clean_Apk_Dialog_Item">&lt;font color=\"#666666\">%1$s&lt;/font> &lt;font color=\"#333333\">%2$s&lt;/font></string>
-    <string name="SDClean_Clean_Apk_Old_Version">alte Version</string>
-    <string name="SDClean_Clean_Clean_May_Wait">is cleaning up, please wait a bit</string>
+    <string name="SDClean_Clean_Apk_Old_Version">Alte Version</string>
+    <string name="SDClean_Clean_Clean_May_Wait">reinigt sich, noch ein bisschen warten</string>
     <string name="SDClean_Clean_DeepClean_Summary">discovers in addition &lt;font color=\"#ffcb2d\">%1$s&lt;/font> depth scanning document, suggested that retains or cleans up discretely</string> 
     <string name="SDClean_Clean_Install_Apk_Informations">%1$s(%2$s)</string>
-    <string name="SDClean_Clean_Install_Apk_Summary">allte APK datei gefunen, %1$s können eingespart werdnespace, löschen?</string>
+    <string name="SDClean_Clean_Install_Apk_Summary">Alte APK datei gefunen, %1$s können eingespart werdnespace, löschen?</string>
     <string name="SDClean_Clean_Install_Apk_Tips">folgende App installiert:</string>
     <string name="SDClean_Clean_No_Advert_Found">keine überflüssigen Dateien von Werbeeinblendungen vorhanden</string>
     <string name="SDClean_Clean_No_Cache_Found">keine überflüssigen Cache Dateien vorhanden</string>
@@ -2667,7 +2667,7 @@ Um fortzufahren, tippen Sie auf die Entsperrtaste"</string>
     <string name="SDClean_Clean_Uninstall_Text_Other">has</string>
     <string name="SDClean_Clean_Uninstall_Text_Title">&lt;font color=\"#66ccff\">%1$d&lt;/font> App Reste von &lt;font color=\"#66ccff\">%2$s&lt;/font> gefunden</string>
     <string name="SDClean_Clean_Uninstall_Text_Video">Video Datei &lt;font color=\"#66ccff\">%1$d&lt;/font> (&lt;font color=\"#66ccff\">%2$s&lt;/font>)</string>
-    <string name="SoftMgr_SysUninstall_Careful_Uninstall">uninstall discretely</string> 
+    <string name="SoftMgr_SysUninstall_Careful_Uninstall">Diskretes deinstallieren</string> 
     <string name="SoftMgr_SysUninstall_Careful_Uninstall_Not_Found">has not for the present the system of discovery discrete unloading to apply</string>
     <string name="SoftMgr_SysUninstall_May_Uninstall">kann deinstalliert werden</string>
     <string name="SoftMgr_SysUninstall_May_Uninstall_Not_Found">has not for the present the system that the discovery can unload to apply</string>
